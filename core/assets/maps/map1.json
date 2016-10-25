@@ -1,0 +1,21 @@
+{"waves": [
+{
+	"delay": 2,
+	"interval": 1,
+	"type": 1,
+	"amount": 4
+},
+{
+	"delay": 8,
+	"interval": 0.75,
+	"type": 1,
+	"amount": 8
+},
+{
+	"delay": 16,
+	"interval": 0.5,
+	"type": 1,
+	"amount": 6
+}
+]
+}
